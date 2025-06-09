@@ -7,3 +7,6 @@ C is being used for the kernel
 
 # asm
  Asm is being used for the bootloader
+
+# makefile/ld
+you know.
