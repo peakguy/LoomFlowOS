@@ -1,9 +1,9 @@
 # LoomFlowOS
 This os is based on C,asm,makefile,ld (linker).
 
-#C
+# C
 C is being used for the kernel 
 
 
-#asm
+# asm
  Asm is being used for the bootloader
