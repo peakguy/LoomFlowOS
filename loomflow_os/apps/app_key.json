@@ -1,0 +1,6 @@
+{
+    "apps":{
+        "notes": {"name": "Notes", "version": "1.0", "description": "A test application"},
+        "brr brr patapin": {"name": "brr brr patapin", "version": "1.0", "description": "A test application"}
+    }
+}
